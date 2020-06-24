@@ -1,0 +1,40 @@
+.webcolor{
+  height: 133.3vh;
+  font-family: Lato, sans-serif;
+  color: cornsilk;
+  padding: 50px;
+  background: linear-gradient(#141e30, #243b55);
+}
+
+/* .formdec {
+    margin-top: -250px;
+  } */
+.table-color{
+  color:cornsilk;
+}
+
+.displayButton{
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+  color:black;
+  font-size: 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  overflow: hidden;
+  transition: .5s;
+  margin-top: 40px;
+  letter-spacing: 4px;
+  margin: 19px;
+  border-radius: 50px;
+}  
+
+.heading{
+    font-family: Calibri; 
+    font-size: 25pt;         
+    font-style: normal; 
+    font-weight: bold; 
+    color:SlateBlue;
+    text-align: center;
+}
+
